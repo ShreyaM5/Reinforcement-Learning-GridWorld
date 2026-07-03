@@ -81,7 +81,7 @@ Where:
 The agent successfully learns an optimal policy over time.
 
 ### Episode Rewards
-![Episode Rewards](images/episode_rewards.png)
+![Episode Rewards](images/episodes_rewards.png)
 
 ### Epsilon Decay
 ![Epsilon Decay](images/epsilon_decay.png)
