@@ -19,8 +19,8 @@ Q-Learning-GridWorld/
 └── images/
     ├── episode_rewards.png
     ├── epsilon_decay.png
-    ├── learned_policy.png
-    └── final_path.png
+    └──learned_policy.png
+    
 ```
 
 ## 🎯 Objective
