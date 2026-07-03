@@ -8,6 +8,20 @@ An agent learns to navigate from a **start position to a goal** while avoiding o
 The agent improves over time using **trial-and-error learning**, guided by rewards and penalties.
 
 ---
+## Project Structure
+
+```
+Q-Learning-GridWorld/
+│
+├── q_learning_gridworld.ipynb
+├── README.md
+├── requirements.txt
+└── images/
+    ├── episode_rewards.png
+    ├── epsilon_decay.png
+    ├── learned_policy.png
+    └── final_path.png
+```
 
 ## 🎯 Objective
 
