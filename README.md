@@ -131,7 +131,6 @@ Compare Q-learning vs Deep Q-learning
 
 ## 👨‍💻 Author
 
-Your Name
 GitHub: https://github.com/ShreyaM5
 
 ⭐ If you like this project
