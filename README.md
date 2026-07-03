@@ -66,17 +66,17 @@ Where:
 
 The agent successfully learns an optimal policy over time.
 
-### 📈 Episode Reward Trend
-(Insert image here: `images/episode_rewards.png`)
+### Episode Rewards
+![Episode Rewards](images/episode_rewards.png)
 
-### 📉 Epsilon Decay
-(Insert image here: `images/epsilon_decay.png`)
+### Epsilon Decay
+![Epsilon Decay](images/epsilon_decay.png)
 
-### 🧭 Learned Policy
-(Insert image here: `images/learned_policy.png`)
+### Learned Policy
+![Policy](images/learned_policy.png)
 
-### 🏁 Final Path
-(Insert image here: `images/final_path.png`)
+### Final Path
+![Final Path](images/final_path.png)
 
 ---
 ## 🧪 How to Run
