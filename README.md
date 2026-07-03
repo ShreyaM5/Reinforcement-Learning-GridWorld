@@ -89,9 +89,6 @@ The agent successfully learns an optimal policy over time.
 ### Learned Policy
 ![Policy](images/learned_policy.png)
 
-### Final Path
-![Final Path](images/final_path.png)
-
 ---
 ## 🧪 How to Run
 
