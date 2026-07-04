@@ -131,6 +131,10 @@ Use larger grids (10×10, 20×20)
 Visual animation of agent movement
 Compare Q-learning vs Deep Q-learning
 
+## Conclusion
+
+This project demonstrates the implementation of the Q-Learning algorithm in a GridWorld environment. The trained agent learns an optimal policy through repeated interaction with the environment, illustrating the fundamentals of model-free reinforcement learning.
+
 ## 👨‍💻 Author
 Github: https://github.com/ShreyaM5
 
