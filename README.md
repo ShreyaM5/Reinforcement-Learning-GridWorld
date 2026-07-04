@@ -1,5 +1,7 @@
 # Reinforcement-Learning-GridWorld
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShreyaM5/Reinforcement-Learning-GridWorld/blob/main/q_learning_gridworld.ipynb)
+
 ## 📌 Project Overview
 
 This project implements the **Q-Learning algorithm from scratch** to solve a custom **GridWorld environment**.  
