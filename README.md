@@ -96,13 +96,13 @@ Where:
 The agent successfully learns an optimal policy over time.
 
 ### Episode Rewards
-![Episode Rewards](images/episodes_rewards.png)
+![Episode Rewards](notebook/images/episodes_rewards.png)
 
 ### Epsilon Decay
-![Epsilon Decay](images/epsilon_decay.png)
+![Epsilon Decay](notebook/images/epsilon_decay.png)
 
 ### Learned Policy
-![Policy](images/learned_policy.png)
+![Policy](notebook/images/learned_policy.png)
 
 ---
 ## 🧪 How to Run
