@@ -1,6 +1,6 @@
 # Reinforcement-Learning-GridWorld
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShreyaM5/Reinforcement-Learning-GridWorld/blob/main/q_learning_gridworld.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ShreyaM5/Reinforcement-Learning-GridWorld/blob/main/q_learning_gridworld.ipynb)
 
 ## 📌 Project Overview
 
