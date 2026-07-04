@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShreyaM5/Reinforcement-Learning-GridWorld/blob/main/q_learning_gridworld.ipynb)
 
+## Interactive Demos
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qlearning-gridworld-simulator.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project implements the **Q-Learning algorithm from scratch** to solve a custom **GridWorld environment**.  
@@ -15,14 +18,24 @@ The agent improves over time using **trial-and-error learning**, guided by rewar
 ```
 Q-Learning-GridWorld/
 │
-├── RL_Notes.pdf
-├── q_learning_gridworld.ipynb
-├── README.md
+├── notebook/
+│   ├── images/
+│   │   ├── episode_rewards.png
+│   │   ├── epsilon_decay.png
+│   │   └── learned_policy.png
+│   └── q_learning_gridworld.ipynb
+│
+├── notes/
+│   └── RL_Notes.pdf
+│
+├── agent.py
+├── environment.py
+├── train.py
+├── utils.py
+├── app.py                  # Streamlit simulator 
 ├── requirements.txt
-└── images/
-    ├── episode_rewards.png
-    ├── epsilon_decay.png
-    └──learned_policy.png
+├── README.md
+└── .gitignore
     
 ```
 
