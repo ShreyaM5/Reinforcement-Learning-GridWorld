@@ -13,6 +13,7 @@ The agent improves over time using **trial-and-error learning**, guided by rewar
 ```
 Q-Learning-GridWorld/
 │
+├── RL_Notes.pdf
 ├── q_learning_gridworld.ipynb
 ├── README.md
 ├── requirements.txt
@@ -51,10 +52,9 @@ Q-Learning-GridWorld/
 
 The agent updates its knowledge using the formula:
 
-\[
-Q(s,a) = Q(s,a) + \alpha \left[r + \gamma \max Q(s',a') - Q(s,a)\right]
-\]
-
+```text
+Q(s,a) = Q(s,a) + α [r + γ max Q(s',a') − Q(s,a)]
+```
 Where:
 - α = Learning rate  
 - γ = Discount factor  
@@ -132,5 +132,5 @@ Compare Q-learning vs Deep Q-learning
 ## 👨‍💻 Author
 Github: https://github.com/ShreyaM5
 
-⭐ If you like this project
-Give it a ⭐ on GitHub and feel free to fork it!
+-⭐ If you like this project
+-Give it a ⭐ on GitHub and feel free to fork it!
